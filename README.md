@@ -55,3 +55,4 @@ Examples of run code for these two files are in [run_attack_classification.py](h
   * --counter_fitting_cos_sim_path: This is optional. If given, then the pre-computed cosine similarity scores based on the counter-fitting word embeddings will be loaded to save time. If not, it will be calculated.
   * --USE_cache_path: The path to save the USE model file (Downloading is automatic if this path is empty).
   
+# NLPAdversarial
